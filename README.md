@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Alfan
-#### i am a human and like to make something new, since i dont really coding like a master i am just experimenting with things i am curios about
-![i am a human and like to make something new, since i dont really coding like a master i am just experimenting with things i am curios about]
+#### I’m a curious human who loves creating new things. I really enjoy coding, especially when I get to experiment and explore whatever sparks my interest.
 
 
 Skills: LARAVEL / TAILWIND CSS / JS / HTML / CSS
