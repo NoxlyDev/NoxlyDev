@@ -74,8 +74,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NoxlyDev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoxlyDev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NoxlyDev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NoxlyDev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 <p align="center">
