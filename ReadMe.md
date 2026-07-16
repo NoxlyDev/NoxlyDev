@@ -1,20 +1,26 @@
 <h1 align="center">Hi, I'm NoxlyDev 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=4FC3F7&center=true&vCenter=true&width=500&lines=Indie+Game+Developer;Fullstack+Web+Developer;Building+cool+things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=4FC3F7&center=true&vCenter=true&width=500&lines=Software+Engineer;Indie+Game+Developer;Fullstack+Web+Developer;Building+cool+things+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NoxlyDev&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.noxlydev.xyz">
+    <img src="https://img.shields.io/badge/Website-noxlydev.xyz-4FC3F7?style=flat&logo=googlechrome&logoColor=white" alt="website" />
+  </a>
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🚀 Indie Game Developer & Web Developer Enthusiast
-- 🌱 Currently learning **Fullstack Development** & **Game Design**
+- 🧑‍💼 Software Engineer leading engineering direction & product strategy for systems and infrastructure under one roof
+- 🚀 Indie Game Developer & Fullstack Web Developer
 - 🔧 Building Minecraft plugins & self-hosted infrastructure
+- 🎓 **Self-taught** — built a working knowledge of software engineering through hands-on projects, documentation, and deliberate practice
+
+- 🌐 Check out my work at **[noxlydev.xyz](https://www.noxlydev.xyz)**
 - 📫 Reach me at **help@noxlydev.xyz**
 
 ---
@@ -22,6 +28,9 @@
 ### 🌐 Socials
 
 <p>
+  <a href="https://www.noxlydev.xyz">
+    <img src="https://img.shields.io/badge/Website-4FC3F7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://discord.gg/RuunxfUGnT">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
@@ -85,5 +94,5 @@
 ---
 
 <p align="center">
-  <sub>Made with ❤️ by NoxlyDev · Indonesia</sub>
+  <a href="https://www.noxlydev.xyz">🌐 www.noxlydev.xyz</a> · <sub>Made with ❤️ by NoxlyDev · Indonesia</sub>
 </p>
