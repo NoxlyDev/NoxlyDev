@@ -44,7 +44,7 @@ Software engineer handling systems architecture, product development, and infras
 ## 💻 Tech Stack
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=rust,java,kotlin,ts,js,py,dart&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=rust,cpp,java,kotlin,ts,js,py,dart&theme=dark" alt="Languages" />
 
 **Backend & Runtime**<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend and runtime" />
@@ -62,19 +62,28 @@ Software engineer handling systems architecture, product development, and infras
 <img src="https://skillicons.dev/icons?i=git,github,gradle,maven,bash,vscode&theme=dark" alt="Build and tools" />
 
 **Game Development**<br/>
-<img src="https://skillicons.dev/icons?i=godot&theme=dark" alt="Game development" />
+<img src="https://skillicons.dev/icons?i=godot&theme=dark" alt="Godot" />
 
 <br/>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-stats-extended.vercel.app/api?username=NoxlyDev&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="150" src="https://streak-stats.demolab.com/?user=NoxlyDev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="./profile/stats.svg" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="Most used languages" />
+  <img src="https://streak-stats.demolab.com/?user=NoxlyDev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<br/>
+
+### 🧬 Languages
+
+<sub>Counted by lines of code across all my repositories, public and private, and refreshed daily.</sub>
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="Most used languages" width="95%" />
 </p>
 
 <p align="center">
