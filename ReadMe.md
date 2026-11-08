@@ -74,6 +74,10 @@ Software engineer handling systems architecture, product development, and infras
 </p>
 
 <p align="center">
+  <img src="./github-metrics.svg" alt="Most used languages" />
+</p>
+
+<p align="center">
   <img src="https://ghchart.rshah.org/0ea5e9/NoxlyDev" alt="Contribution graph" width="95%" />
 </p>
 
