@@ -1,98 +1,82 @@
-<h1 align="center">Hi, I'm NoxlyDev 👋</h1>
+<h1 align="center">NoxlyDev</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=4FC3F7&center=true&vCenter=true&width=500&lines=Software+Engineer;Indie+Game+Developer;Fullstack+Web+Developer;Building+cool+things+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NoxlyDev&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://www.noxlydev.xyz">
-    <img src="https://img.shields.io/badge/Website-noxlydev.xyz-4FC3F7?style=flat&logo=googlechrome&logoColor=white" alt="website" />
-  </a>
-</p>
-
----
-
-### 🧑‍💻 About Me
-
-- 🧑‍💼 Software Engineer leading engineering direction & product strategy for systems and infrastructure under one roof
-- 🚀 Indie Game Developer & Fullstack Web Developer
-- 🔧 Building Minecraft plugins & self-hosted infrastructure
-- 🎓 **Self-taught** — built a working knowledge of software engineering through hands-on projects, documentation, and deliberate practice
-
-- 🌐 Check out my work at **[noxlydev.xyz](https://www.noxlydev.xyz)**
-- 📫 Reach me at **help@noxlydev.xyz**
-
----
-
-### 🌐 Socials
-
-<p>
-  <a href="https://www.noxlydev.xyz">
-    <img src="https://img.shields.io/badge/Website-4FC3F7?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/RuunxfUGnT">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://tiktok.com/@killuaown">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-  <a href="mailto:help@noxlydev.xyz">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 💻 Tech Stack
-
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-</p>
-
-**Backend & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-</p>
-
-**Game Development**
-<p>
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-</p>
-
-**Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NoxlyDev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NoxlyDev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <b>Software Engineer · Systems &amp; Rust · Full-stack · Indie Game Dev</b>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NoxlyDev&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Systems+%26+Rust+Engineer;Indie+Game+Developer;Fullstack+Web+Developer;Building+High-Assurance+Infrastructure+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NoxlyDev&label=Profile+Views&color=0ea5e9&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-Rust_%26_Distributed_Systems-orange?style=flat-square&logo=rust&logoColor=white" alt="Focus" />
+</p>
+
+<br/>
+
+## 🧑‍💻 About Me
+
+Software engineer handling systems architecture, product development, and infrastructure end to end. Self-taught, with skills built through shipping real projects, writing thorough documentation, and deliberate practice.
+
+- 🦀 **Systems & Security**: cryptographic license gateways, automated threat-defense tooling, and lightweight services in **Rust**
+- 🚀 **Full-stack**: modern web applications with SvelteKit, Next.js, and React
+- 🎮 **Game Development**: gameplay and systems in **Godot**
+- 🔧 **Infrastructure**: self-hosting, Linux server orchestration, Pterodactyl, and CI/CD pipelines
+
+<br/>
+
+🌐 **Portfolio:** [noxlydev.xyz](https://www.noxlydev.xyz) &nbsp;·&nbsp; 📫 **Contact:** [help@noxlydev.xyz](mailto:help@noxlydev.xyz)
+
+<br/>
+
+## 🌐 Connect
+
+<p align="left">
+  <a href="https://www.noxlydev.xyz"><img src="https://img.shields.io/badge/Website-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://discord.gg/RuunxfUGnT"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://tiktok.com/@killuaown"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="mailto:help@noxlydev.xyz"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<br/>
+
+## 💻 Tech Stack
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=rust,java,kotlin,ts,js,py,dart&theme=dark" alt="Languages" />
+
+**Backend & Runtime**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend and runtime" />
+
+**Frontend & Mobile**<br/>
+<img src="https://skillicons.dev/icons?i=svelte,nextjs,react,astro,vite,tailwind,flutter&theme=dark" alt="Frontend and mobile" />
+
+**Databases**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,supabase,sqlite&theme=dark" alt="PostgreSQL, Redis, MongoDB, Supabase, SQLite" />&nbsp;&nbsp;<img src="https://go-skill-icons.vercel.app/api/icons?i=mariadb&theme=dark" alt="MariaDB" />
+
+**Infrastructure & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,githubactions,cloudflare,vercel&theme=dark" alt="Infrastructure and DevOps" />
+
+**Build & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,gradle,maven,bash,vscode&theme=dark" alt="Build and tools" />
+
+**Game Development**<br/>
+<img src="https://skillicons.dev/icons?i=godot&theme=dark" alt="Game development" />
+
+<br/>
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.noxlydev.xyz">🌐 www.noxlydev.xyz</a> · <sub>Made with ❤️ by NoxlyDev · Indonesia</sub>
+  <img height="150" src="https://github-stats-extended.vercel.app/api?username=NoxlyDev&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="150" src="https://streak-stats.demolab.com/?user=NoxlyDev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/0ea5e9/NoxlyDev" alt="Contribution graph" width="95%" />
+</p>
+
+<p align="center">
+  <sub>Crafted with precision by <a href="https://www.noxlydev.xyz">NoxlyDev</a></sub>
 </p>
