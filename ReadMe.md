@@ -47,7 +47,8 @@ Software engineer handling systems architecture, product development, and infras
 <img src="https://skillicons.dev/icons?i=rust,cpp,java,kotlin,ts,js,py,dart&theme=dark" alt="Languages" />
 
 **Backend & Runtime**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend and runtime" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tokiors,nodejs,expressjs,fastapi&theme=dark" alt="Tokio, Node.js, Express, FastAPI" /><br/>
+<sub>Rust services built with Axum on Tokio · Python APIs with FastAPI</sub>
 
 **Frontend & Mobile**<br/>
 <img src="https://skillicons.dev/icons?i=svelte,nextjs,react,astro,vite,tailwind,flutter&theme=dark" alt="Frontend and mobile" />
